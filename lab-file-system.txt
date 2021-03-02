@@ -209,7 +209,7 @@ mkdir aardvark
 
 What is the modified date of the aardvark directory?
 ----------
-
+drwxr-xr-x 1 churro churro 512 Mar  2 17:21 aardvark
 
 
 ==========
@@ -221,7 +221,7 @@ What is the modified date of the aardvark directory?
 
 What command did you use?
 ----------
-
+mkdir -p foo/bar/baz
 
 
 ==========
@@ -242,7 +242,7 @@ What command did you use?
 ==========
 23. What command is used to delete empty directories?
 ----------
-
+rmdir 
 
 
 ==========
@@ -260,21 +260,22 @@ What command did you use?
 ==========
 26. What's the shortcut for home directory?
 ----------
-
+cd ~
 
 
 ==========
 27. What's a pathname?
 ----------
-
+its the name of the path in other words a location in the file
 
 
 ==========
 28. What's a directory?
 ----------
-
+its a folder in the file system
 
 
 ==========
 29. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+paths expressed as starting from the root
