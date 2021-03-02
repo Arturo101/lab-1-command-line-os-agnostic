@@ -237,7 +237,7 @@ cd ../../../..
 
 What command did you use?
 ----------
-
+cd ../../
 
 ==========
 23. What command is used to delete empty directories?
